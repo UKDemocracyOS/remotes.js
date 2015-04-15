@@ -17,7 +17,7 @@
     "component-consoler": "git://github.com/UKDemocracyOS/console.js.git",
     "graceful-fs": "^2.0.2",
     "semver": "^2.2.1",
-    "cogent": "git://github.com/UKDemocracyOS/cogent.git",
+    "cogent": "git://github.com/UKDemocracyOS/cogent.git#patch-1",
     "co": "^3"
   },
   "devDependencies": {
